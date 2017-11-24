@@ -1,4 +1,5 @@
 '''
+sudo pip install Flask
 sudo apt-get install npm
 npm install -g localtunnel
 
