@@ -1,3 +1,15 @@
+'''
+sudo apt-get install npm
+npm install -g localtunnel
+
+#Run this script
+
+on a new terminal window:
+lt --port 5000
+
+#OPEN you imagination
+'''
+
 from flask import Flask
 app = Flask(__name__)
 
